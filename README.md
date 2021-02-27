@@ -1,19 +1,11 @@
-# app
+# Products
 
-## Project setup
+## Configuración del Proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Ejecute 
 ```
-npm run serve
+npm run serve -- --port 8081
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
